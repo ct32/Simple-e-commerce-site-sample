@@ -1,1 +1,2 @@
 # Simple-e-commerce-site-sample
+- Designed a simple e-commerce site for users. Administrators or store owners are able to manage inventory and users are able to manage their cart and place orders. The design was done using  PHP, JavaScript, Html, CSS and Bootstrap. In this project security rules and roles were implemented accordingly. Additionally, SQL was used to store and organize data about the user’s accounts, products, orders, and cart.   
