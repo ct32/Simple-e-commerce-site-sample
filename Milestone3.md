@@ -149,26 +149,7 @@
  <p> Users can’t purchase more than what’s in stock</p>
 </td></tr>
   
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<table>
-<tr><td>F2 - Order Confirmation Page (2021-12-18)</td></tr>
-<tr><td>Status: incomplete</td></tr>
-<tr><td>Links:</td></tr>
-<tr><td>PRs:</td></tr>
-<tr><td>
-<table>
-<tr><td>F2 - Show the entire order details from the Order and OrderItems table (similar to cart)</td></tr>
-<tr><td>Status: 
-<img width="100" height="20" src="https://via.placeholder.com/400x120/ff0000/000000?text=incomplete"></td></tr>
 
-<tr><td>
-<img width="768px" src="">
-<p></p>
-</td></tr>
 
 </td>
 </tr>
